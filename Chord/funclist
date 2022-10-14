@@ -1,0 +1,13 @@
+_LCD_Move: CODE, 5098 0 58
+_LCD_Strobe: CODE, 5308 0 18
+_LCD_Pause: CODE, 5326 0 12
+_LCD_Init: CODE, 5206 0 42
+_LCD_Out: CODE, 4790 0 112
+_IntServe: CODE, 2056 0 2492
+_main: CODE, 4548 0 550
+___lwdiv: CODE, 4902 0 74
+_Wait_ms: CODE, 5248 0 42
+___lwmod: CODE, 4976 0 62
+_LCD_Write: CODE, 5156 0 50
+_LCD_Inst: CODE, 5038 0 60
+Total: 3572
